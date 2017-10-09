@@ -1,1 +1,1 @@
-# CredenceCoin-Windows-Wallet
+# CredenceCoin-Windows Wallet v1.3.7.9
